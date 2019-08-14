@@ -1,0 +1,11 @@
+/home/kyxu/lane/mydata/image/0009.png /home/kyxu/lane/mydata/gt_image_binary/0009.png /home/kyxu/lane/mydata/gt_image_instance/0009.png
+/home/kyxu/lane/mydata/image/0018.png /home/kyxu/lane/mydata/gt_image_binary/0018.png /home/kyxu/lane/mydata/gt_image_instance/0018.png
+/home/kyxu/lane/mydata/image/0027.png /home/kyxu/lane/mydata/gt_image_binary/0027.png /home/kyxu/lane/mydata/gt_image_instance/0027.png
+/home/kyxu/lane/mydata/image/0036.png /home/kyxu/lane/mydata/gt_image_binary/0036.png /home/kyxu/lane/mydata/gt_image_instance/0036.png
+/home/kyxu/lane/mydata/image/0045.png /home/kyxu/lane/mydata/gt_image_binary/0045.png /home/kyxu/lane/mydata/gt_image_instance/0045.png
+/home/kyxu/lane/mydata/image/0054.png /home/kyxu/lane/mydata/gt_image_binary/0054.png /home/kyxu/lane/mydata/gt_image_instance/0054.png
+/home/kyxu/lane/mydata/image/0063.png /home/kyxu/lane/mydata/gt_image_binary/0063.png /home/kyxu/lane/mydata/gt_image_instance/0063.png
+/home/kyxu/lane/mydata/image/0072.png /home/kyxu/lane/mydata/gt_image_binary/0072.png /home/kyxu/lane/mydata/gt_image_instance/0072.png
+/home/kyxu/lane/mydata/image/0081.png /home/kyxu/lane/mydata/gt_image_binary/0081.png /home/kyxu/lane/mydata/gt_image_instance/0081.png
+/home/kyxu/lane/mydata/image/0090.png /home/kyxu/lane/mydata/gt_image_binary/0090.png /home/kyxu/lane/mydata/gt_image_instance/0090.png
+/home/kyxu/lane/mydata/image/0099.png /home/kyxu/lane/mydata/gt_image_binary/0099.png /home/kyxu/lane/mydata/gt_image_instance/0099.png

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kyxu/lane/lanenet-lane-detection-master/model/save/lanenet.ckpt-1000"
+all_model_checkpoint_paths: "/home/kyxu/lane/lanenet-lane-detection-master/model/save/lanenet.ckpt-1000"

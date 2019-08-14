@@ -1,0 +1,6 @@
+model_checkpoint_path: "tusimple_lanenet_vgg_2019-04-04-11-56-55.ckpt-180"
+all_model_checkpoint_paths: "tusimple_lanenet_vgg_2019-04-04-11-56-55.ckpt-100"
+all_model_checkpoint_paths: "tusimple_lanenet_vgg_2019-04-04-11-56-55.ckpt-120"
+all_model_checkpoint_paths: "tusimple_lanenet_vgg_2019-04-04-11-56-55.ckpt-140"
+all_model_checkpoint_paths: "tusimple_lanenet_vgg_2019-04-04-11-56-55.ckpt-160"
+all_model_checkpoint_paths: "tusimple_lanenet_vgg_2019-04-04-11-56-55.ckpt-180"

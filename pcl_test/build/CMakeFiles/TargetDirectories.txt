@@ -1,0 +1,4 @@
+/home/kyxu/pcl_test/build/CMakeFiles/edit_cache.dir
+/home/kyxu/pcl_test/build/CMakeFiles/cloud_viewer.dir
+/home/kyxu/pcl_test/build/CMakeFiles/rebuild_cache.dir
+/home/kyxu/pcl_test/build/CMakeFiles/random_sample_consensus.dir
